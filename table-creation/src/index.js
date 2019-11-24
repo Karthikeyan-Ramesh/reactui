@@ -26,6 +26,7 @@ class App extends Component {
         </div>
         <div className="align-ctype">
           <select name="ctype">
+              <option value="0">Select Column Type</option>
               <option value="Date">Date</option>
               <option value="Number">Number</option>
               <option value="Multiselect">Multiselect</option>
@@ -46,6 +47,7 @@ class App extends Component {
         </div>
         <div className="align-ctype">
           <select name="ctype">
+              <option value="0">Select Column Type</option>
               <option value="Date">Date</option>
               <option value="Number">Number</option>
               <option value="Multiselect">Multiselect</option>
@@ -69,6 +71,7 @@ render() {
           </div>
           <div className="align-ctype">
             <select name="ctype">
+                <option value="0">Select Column Type</option>
                 <option value="Date">Date</option>
                 <option value="Number">Number</option>
                 <option value="Multiselect">Multiselect</option>
