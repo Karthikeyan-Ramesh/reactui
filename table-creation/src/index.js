@@ -93,7 +93,7 @@ render() {
                     <div className="req">
                         <p>*Note : Please Fill All the fields as Mandatory</p>
                     </div><br/>
-                     <button  class="btn btn-default button sub-header" onClick={this.createTable}> Create Table</button>
+                     <button style={{margin:15}} class="btn btn-default button sub-header" onClick={this.createTable}> Create Table</button>
                 </div>
             </div>
         </div>
