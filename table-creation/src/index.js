@@ -61,7 +61,7 @@ class App extends Component {
     }
 
     createTable() {
-        alert("welcome")
+        alert("welcomels")
     }
 
 render() {
